@@ -1,0 +1,11 @@
+﻿{
+  "$schema": "http://https://privarobot.trade/install",
+  "resources": {
+    "head": [],
+    "body": []
+  },
+  "options": {
+    "properties": {
+    }
+  }
+}
